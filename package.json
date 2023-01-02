@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/WingLim/ddns-telegram-bot#readme",
   "devDependencies": {
-    "@vercel/node": "2.6.1"
+    "@vercel/node": "2.8.2"
   },
   "dependencies": {
     "grammy": "1.13.0"
