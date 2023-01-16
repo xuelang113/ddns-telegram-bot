@@ -4,7 +4,7 @@
   "description": "A telegram bot for ddns-go",
   "scripts": {},
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/WingLim/ddns-telegram-bot.git"
   },
   "author": "WingLim",
